@@ -82,6 +82,8 @@ useCacheHash = 0
 }
 }
 
+plugin.tx_news.settings.list.media.image.width = 900
+
 #### SEO CONFIGURATION ###
 plugin.tx_seo.config {
   xmlSitemap {
